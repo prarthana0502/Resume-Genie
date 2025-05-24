@@ -91,3 +91,18 @@ npm start
 
 This project is licensed under the MIT License.  
 © 2025 RV University - For academic and non-commercial use only.
+
+## 💬 Support
+📧 Email: support@resumegenie.com
+💻 GitHub Issues: Create an issue
+📚 Documentation: Wiki
+
+## 🙏 Acknowledgments
+
+Create React App
+FastAPI
+Firebase
+Google AI
+
+
+Made with ❤️ by the ResumeGenie Team
